@@ -107,9 +107,6 @@ Se quiser conhecer meus projetos ou entrar em contato, fique à vontade para ace
 🌐 **PORTFÓLIO:**  
 **[Acessa AQUI](https://kaiqzindev.github.io/MEU-PORTIFOLIO/)**
 
-💻 **GITHUB:**  
-**[Acessa AQUI](https://github.com/kaiqzindev)**
-
 💼 **LINKEDLN:**  
 **[Acessa AQUI](https://www.linkedin.com/in/kaique-dias-110593294/)**
 
