@@ -110,6 +110,10 @@ Se quiser conhecer meus projetos ou entrar em contato, fique à vontade para ace
 💼 **LINKEDLN:**  
 **[Acessa AQUI](https://www.linkedin.com/in/kaique-dias-110593294/)**
 
+* 📧 **E-mail:**
+*  [kaique16022007@gmail.com](mailto:kaique16022007@gmail.com)
+
+
 ---
 
 
