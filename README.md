@@ -113,8 +113,6 @@ Se quiser conhecer meus projetos ou entrar em contato, fique à vontade para ace
 📧 **E-MAIL:**   
 **[Acessa AQUI](mailto:kaique16022007@gmail.com)**
 
-📧 **E-MAIL:** 
-**[Acessa AQUI](mailto:kaique16022007@gmail.com)**
 
 ---
 
