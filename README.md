@@ -70,7 +70,7 @@ Meu próprio portfólio web foi desenvolvido como uma forma de praticar meus con
 
 Durante o desenvolvimento, utilizei ferramentas de Inteligência Artificial como apoio para implementação, ajustes e melhorias, combinando essas ferramentas com meus conhecimentos de programação.
 
-🔗 **[Acessar meu portfólio](https://kaiqzindev.github.io/MEU-PORTIFOLIO/)**
+🔗 **[Acessa AQUI](https://kaiqzindev.github.io/MEU-PORTIFOLIO/)**
 
 ---
 
@@ -104,14 +104,14 @@ Busco transformar ideias em **soluções digitais funcionais, modernas e acessí
 
 Se quiser conhecer meus projetos ou entrar em contato, fique à vontade para acessar meu portfólio.
 
-🌐 **Portfólio:**  
-https://kaiqzindev.github.io/MEU-PORTIFOLIO/
+🌐 **PORTFÓLIO:**  
+**[Acessa AQUI](https://kaiqzindev.github.io/MEU-PORTIFOLIO/)**
 
-💻 **GitHub:**  
-https://github.com/kaiqzindev
+💻 **GITHUB:**  
+**[Acessa AQUI](https://github.com/kaiqzindev)**
 
 ---
 
 <p align="center">
-  Desenvolvido por <strong>Kaique Dias</strong> 🚀
+  Desenvolvido por <strong>KAIQUE DIAS</strong> 🚀
 </p>
